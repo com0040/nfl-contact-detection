@@ -6,7 +6,7 @@
 </div>
 
  
-  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> nfl-contact-detection 대회
+  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> nfl-contact-detection 
   참여기간 : 23.02.22-23.03.02 
   
   팀 : underdog (팀장 : 임보라, 이성연, 정유석, 김재현, 이창재) 
