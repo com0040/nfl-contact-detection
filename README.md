@@ -6,7 +6,7 @@
   
   ## kaggle  nfl-contact-detection 대회 참여  
   ### 23.02.22-23.03.02 
-  <gif src="https://user-images.githubusercontent.com/103908794/222314397-a46d1f5e-45d6-4e16-932a-69e72d1d8fb7.gif)" width="250" height="250"/>
+  <img src="https://user-images.githubusercontent.com/103908794/222314397-a46d1f5e-45d6-4e16-932a-69e72d1d8fb7.gif)" width="250" height="250"/>
   
 </div>
 
