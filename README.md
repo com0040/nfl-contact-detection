@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=header&text=Underdog&fontSize=40" />
-
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/103908794/222314882-9fe1ae73-0d39-4816-be45-5ca2f1617b7b.png" width="700" height="150"/>
@@ -9,7 +6,7 @@
 </div>
 <!--   ?style=plastic -->
 
-  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?logoWidth=400&logo=kaggle&logoColor=white"/> Player-Contact-Detection 
+  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?logoWidth=200&logo=kaggle&logoColor=white"/> Player-Contact-Detection 
   Participation period (참여기간) : 23.02.22-23.03.02 
   
   team : underdog (임보라[leader], 이성연, 정유석, 김재현, 이창재) 
