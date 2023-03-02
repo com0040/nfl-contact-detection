@@ -5,11 +5,11 @@
   
 </div>
 
- 
-  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> Player-Contact-Detection 
-  참여기간 : 23.02.22-23.03.02 
+<!--  ?style=for-the-badge&logo=appveyor -->
+  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> Player-Contact-Detection 
+  Participation period (참여기간) : 23.02.22-23.03.02 
   
-  팀 : underdog (팀장 : 임보라, 이성연, 정유석, 김재현, 이창재) 
+  team : underdog (임보라[leader], 이성연, 정유석, 김재현, 이창재) 
  
 <div align="center">
 
@@ -18,11 +18,17 @@
 </div>
 
 ***
----
 
-# 목차
+# Table of Contents(목차)
 
-대회 요약
+1. Competition Summary(대회 요약)
+2. Strategy (전략)
+3. Method (방법)
+
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+
+
 
 
 
