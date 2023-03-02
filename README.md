@@ -16,8 +16,10 @@
 <img src="https://user-images.githubusercontent.com/103908794/222319570-426b5551-b853-4e09-9670-539748a4f8e1.png" width="700" height="300"/>  
 
 </div>
-# ---
+---
+
 # 목차
+
 대회 요약
 
 
