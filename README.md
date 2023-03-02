@@ -42,9 +42,9 @@ Goal of the Competition
 
 ### Evaluation
 
-- Submissions are evaluated on Matthews Correlation Coefficient between the predicted and actual contact events.
+- Submissions are evaluated on **Matthews Correlation Coefficient** between the predicted and actual contact events.
 
-- (이진분류에 사용되는 매튜 상관 계수를 평가지표로 사용합니다.)
+- (이진분류에 사용되는 **매튜 상관 계수** 를 평가지표로 사용합니다.)
 
 - The file should contain a header and have the following format:
 - (제출 파일 형식은 아래와 같습니다.)
@@ -91,4 +91,26 @@ Goal of the Competition
 - (사전 훈련된 모델을 포함하여 자유롭고 공개적으로 사용 가능한 외부 데이터가 허용됩니다.)
 - Submission file must be named submission.csv (제출파일명은 submission.csv)
 
-### 
+## 2. Strategy (전략)
+
+### Dataset Description
+
+>> train
+
+>> test
+
+> sample_submission.csv
+
+> test_baseline_helmets.csv
+
+> test_player_tracking.csv
+
+> test_video_metadata.csv
+
+> train_baseline_helmets.csv
+
+> train_labels.csv
+
+> train_player_tracking.csv
+
+train_video_metadata.csv
