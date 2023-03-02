@@ -5,7 +5,8 @@
   
 </div>
 
-  
+ <img src="https://img.shields.io/badge/kaggle-#20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+ 
   # kaggle) nfl-contact-detection 대회
   참여기간 : 23.02.22-23.03.02 
   
