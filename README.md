@@ -5,8 +5,8 @@
 </div>
 
   
-  ## kaggle  nfl-contact-detection 대회 참여  
-  ### 23.02.22-23.03.02 
+  ## 1. kaggle  nfl-contact-detection 대회 참여  
+  ### 2. 참여기간23.02.22-23.03.02 
  
 <div align="center">
 
