@@ -47,6 +47,7 @@ Goal of the Competition
 - (이진분류에 사용되는 매튜 상관 계수를 평가지표로 사용합니다.)
 
 - The file should contain a header and have the following format:
+- (제출 파일 형식은 아래와 같습니다.)
 
 <div align="center">
 
