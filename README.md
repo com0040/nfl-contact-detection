@@ -98,13 +98,15 @@ Goal of the Competition
 
 ### Dataset Description
 
->> train
+#### Files
 
->> test
+>> train (train.mp4 videos of each play.)
 
-> sample_submission.csv
+>> test (test.mp4 videos of each play.)
 
-> test_baseline_helmets.csv
+> sample_submission.csv (examples of submission)
+
+> test_baseline_helmets.csv ()
 
 > test_player_tracking.csv
 
