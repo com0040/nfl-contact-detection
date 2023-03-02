@@ -12,7 +12,7 @@
   
   Participation period (참여기간) : 23.02.22-23.03.02 
   
-  team : underdog (임보라:point_left:[leader], 이성연, 정유석, 김재현, 이창재) 
+  team : nderdog (임보라:point_left:[leader], 이성연, 정유석, 김재현, 이창재) 
  
 <div align="center">
 
