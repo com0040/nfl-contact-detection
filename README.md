@@ -17,4 +17,7 @@
 
 </div>
 
+1. 1st and Future - Player Contact Detection(Detect Player Contacts from Sensor and Video Data) 대회 요약
+
+
 
