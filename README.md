@@ -19,7 +19,7 @@
  
 <div align="center">
 
-# :tada: :trophy: :tada:
+# :tada: Bronze :trophy: Medal :tada:
 
 <img src="https://user-images.githubusercontent.com/103908794/222319570-426b5551-b853-4e09-9670-539748a4f8e1.png" width="700" height="300"/>  
 
@@ -35,7 +35,7 @@
 
 ## 1. Overview(대회 요약)
 
-### Description
+### a. Description
 
 Goal of the Competition
 
@@ -43,7 +43,7 @@ Goal of the Competition
 
 - 플레이어의 안전을 개선하는 데 도움이 되는 접촉을 통해 순간을 식별합니다
 
-### Evaluation
+### b. Evaluation
 
 - Submissions are evaluated on **Matthews Correlation Coefficient** between the predicted and actual contact events.
 
@@ -63,7 +63,7 @@ Goal of the Competition
 
 </div>
 
-### Timeline
+### c. Timeline
 
 - December 5, 2022 - Start Date. (대회 시작일)
 
@@ -73,7 +73,7 @@ Goal of the Competition
 
 - March 1, 2023 - Final Submission Deadline. (제출 마감)
 
-### Prizes
+### d. Prizes
 
 1st Place - $50,000
 
@@ -85,7 +85,7 @@ Goal of the Competition
 
 5th Place - $5,000
 
-### Code Requirements
+### e. Code Requirements
 
 - CPU Notebook <= 9 hours run-time (CPU 런타임 시간제한)
 - GPU Notebook <= 9 hours run-time (GPU 런타임 시간제한)
@@ -96,7 +96,7 @@ Goal of the Competition
 
 ## 2. Strategy (전략)
 
-### Dataset Description
+### a. Dataset Description
 
 #### Files
 
@@ -106,7 +106,7 @@ Goal of the Competition
 
 > sample_submission.csv (examples of submission)
 
-> test_baseline_helmets.csv ()
+> test_baseline_helmets.csv 
 
 > test_player_tracking.csv
 
@@ -119,3 +119,5 @@ Goal of the Competition
 > train_player_tracking.csv
 
 > train_video_metadata.csv
+
+
