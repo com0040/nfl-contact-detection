@@ -6,7 +6,7 @@
 </div>
 
  
-  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> nfl-contact-detection 
+  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> Player-Contact-Detection 
   참여기간 : 23.02.22-23.03.02 
   
   팀 : underdog (팀장 : 임보라, 이성연, 정유석, 김재현, 이창재) 
@@ -16,8 +16,9 @@
 <img src="https://user-images.githubusercontent.com/103908794/222319570-426b5551-b853-4e09-9670-539748a4f8e1.png" width="700" height="300"/>  
 
 </div>
-
-# 1. 1st and Future - Player Contact Detection(Detect Player Contacts from Sensor and Video Data) 대회 요약
+# ---
+# 목차
+대회 요약
 
 
 
