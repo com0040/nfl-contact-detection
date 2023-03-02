@@ -6,7 +6,7 @@
 </div>
 <!--   ?style=plastic -->
 
-  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?logoWidth=200&logo=kaggle&logoColor=white"/> 
+  #  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/> 
   Player-Contact-Detection 
   Participation period (참여기간) : 23.02.22-23.03.02 
   
