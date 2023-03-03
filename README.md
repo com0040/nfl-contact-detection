@@ -153,7 +153,7 @@ Goal of the Competition
 
 ### Best Score
   
- :tada: CNN + XGBoost(X2) - Ensemble Soft Voting = 0.71187(Privite) / 0.69624(Public) :tada:
+#### **:thumbsup: CNN + XGBoost(X2) - Ensemble Soft Voting = 0.71187(Privite) / 0.69624(Public)** :thumbsup:
   
 
 
