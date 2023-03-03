@@ -11,7 +11,7 @@
 
 </div>
   
-  #  <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection/overview"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/> :boom: Player-Contact-Detection :boom: 
+  #  <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection/overview"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/>    :boom: Player-Contact-Detection :boom: 
   
   Participation period (참여기간) : 23.02.22-23.03.02 
   
@@ -120,12 +120,16 @@ Goal of the Competition
 
 >> train_video_metadata.csv
 
-### a. Train Custom DL Model
+### :fast_forward: Direction :sunglasses:
 
-### b. ML Voting
+#### :one: Train Custom DL Model
+  
+#### :two: ML Voting
 
-### c. Train Custom DL Model + ML Voting
+#### :three: Train Custom DL Model + ML Voting
 
-### d.  Pretrained DL Model + ML Voting
+#### :four: Pretrained DL Model + ML Voting
+  
+
 
 
