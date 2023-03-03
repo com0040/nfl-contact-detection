@@ -100,24 +100,24 @@ Goal of the Competition
 
 #### Files
 
->> train (train.mp4 videos of each play.)
+> train (train.mp4 videos of each play.)
 
->> test (test.mp4 videos of each play.)
+> test (test.mp4 videos of each play.)
 
-> sample_submission.csv (examples of submission)
+>> sample_submission.csv (examples of submission)
 
-> test_baseline_helmets.csv 
+>> test_baseline_helmets.csv 
 
-> test_player_tracking.csv
+>> test_player_tracking.csv
 
-> test_video_metadata.csv
+>> test_video_metadata.csv
 
-> train_baseline_helmets.csv
+>> train_baseline_helmets.csv
 
-> train_labels.csv
+>> train_labels.csv
 
-> train_player_tracking.csv
+>> train_player_tracking.csv
 
-> train_video_metadata.csv
+>> train_video_metadata.csv
 
 
