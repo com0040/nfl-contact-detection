@@ -15,13 +15,13 @@
   
   Participation period (참여기간) : 23.02.22-23.03.02 
   
-  team : UnderDog (임보라:point_left:[leader], 이성연, 정유석, 김재현, 이창재) 
+  team : UnderDog (임보라 [leader], 이성연, 정유석, 김재현, 이창재) 
  
 <div align="center">
 
 # :tada: Bronze :trophy: Medal :tada:
 
-<img src="https://user-images.githubusercontent.com/103908794/222650028-9797f89a-453e-4c51-baf4-3a9a6be2e178.png" width="700" height="300"/>  
+<img src="https://user-images.githubusercontent.com/103908794/222660680-bf7a86a7-b6ab-44a2-a489-c6d5d24eafe4.png" width="700" height="350"/>  
 
 </div>
 
