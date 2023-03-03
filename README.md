@@ -15,7 +15,7 @@
   
   Participation period (참여기간) : 23.02.22-23.03.02 
   
-  team : nderdog (임보라:point_left:[leader], 이성연, 정유석, 김재현, 이창재) 
+  team : UnderDog (임보라:point_left:[leader], 이성연, 정유석, 김재현, 이창재) 
  
 <div align="center">
 
@@ -94,6 +94,8 @@ Goal of the Competition
 - (사전 훈련된 모델을 포함하여 자유롭고 공개적으로 사용 가능한 외부 데이터가 허용됩니다.)
 - Submission file must be named submission.csv (제출파일명은 submission.csv)
 
+---
+
 ## 2. Strategy (전략)
 
 ### a. Dataset Description
@@ -130,6 +132,8 @@ Goal of the Competition
 
 #### :four: :point_right: Pretrained DL Model + ML Voting :point_left:
   
+---
 
+3. Method (방법)
 
 
