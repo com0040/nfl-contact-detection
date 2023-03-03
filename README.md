@@ -137,9 +137,15 @@ Goal of the Competition
 
 ### Ansemble Soft-Voting
 
-1. XGBoost - 10 fold / 
+#### 1. XGBoost - 5, 10 Fold / cluster = [10, 50, 100, 300, 500]
   
-2. 
+#### 2. LightGBM - 5, 10 Fold / cluster = [10, 50, 100, 300, 500]
+
+#### 3. CatBoost - 5, 10 Fold / cluster = [10, 50, 100, 300, 500]
+
+#### 4. RandomForest - 5, 10 Fold / cluster = [10, 50, 100, 300, 500]
+
+#### 5. Stacking(XGBoost, LightGBM, CatBoost) - KFold X / cluster = [10, 50, 100, 500]
 
 
 
