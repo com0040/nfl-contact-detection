@@ -137,6 +137,7 @@ Goal of the Competition
   
 ### Pretrained DL Model
   
+  resnet50
 
 ### ML Ansemble Soft-Voting
 
@@ -150,6 +151,13 @@ Goal of the Competition
 
 #### 5. Stacking(XGBoost, LightGBM, CatBoost) - KFold X / cluster = [10, 50, 100, 500]
 
-### Best Score 
+### Best Score
+  
+ :tada: CNN + XGBoost(X2) - Ensemble Soft Voting = 0.71187(Privite) / 0.69624(Public) :tada:
+  
+
+
+
+
   
 
