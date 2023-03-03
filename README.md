@@ -134,6 +134,8 @@ Goal of the Competition
   
 ---
 
-3. Method (방법)
+## 3. Method (방법)
+  
+
 
 
