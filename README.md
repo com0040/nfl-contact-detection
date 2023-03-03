@@ -130,12 +130,16 @@ Goal of the Competition
 
 #### :three: Train Custom DL Model + ML Voting
 
-#### :four: :point_right: Pretrained DL Model + ML Voting :point_left:
-  
+#### :four: :point_right: Pretrained DL Model + ML Voting :point_left: (We Choose This)  
 ---
 
 ## 3. Method (방법)
+
+### Ansemble Soft-Voting
+
+1. XGBoost - 10 fold / 
   
+2. 
 
 
 
