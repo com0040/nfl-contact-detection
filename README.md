@@ -21,7 +21,7 @@
 
 # :tada: Bronze :trophy: Medal :tada:
 
-<img src="https://user-images.githubusercontent.com/103908794/222319570-426b5551-b853-4e09-9670-539748a4f8e1.png" width="700" height="300"/>  
+<img src="https://user-images.githubusercontent.com/103908794/222650028-9797f89a-453e-4c51-baf4-3a9a6be2e178.png" width="700" height="300"/>  
 
 </div>
 
