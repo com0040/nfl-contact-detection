@@ -122,7 +122,7 @@ Goal of the Competition
 
 >> train_video_metadata.csv
 
-### :fast_forward: Direction :sunglasses:
+### b. :fast_forward: Direction :sunglasses:
 
 #### :one: Train Custom DL Model
   
