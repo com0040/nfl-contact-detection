@@ -134,6 +134,9 @@ Goal of the Competition
 ---
 
 ## 3. Method (방법)
+  
+### Pretrained DL Model
+  
 
 ### Ansemble Soft-Voting
 
@@ -147,5 +150,6 @@ Goal of the Competition
 
 #### 5. Stacking(XGBoost, LightGBM, CatBoost) - KFold X / cluster = [10, 50, 100, 500]
 
-
+### Best Score 
+  
 
